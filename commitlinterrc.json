@@ -1,0 +1,16 @@
+{
+  "types": {
+    "feat": "Implementation of a feature",
+    "fix": "Fix a bug or error",
+    "docs": "Documentation related changes",
+    "style": "Changes related to styling",
+    "refactor": false,
+    "test": "Changes to test",
+    "chore": false,
+    "perf": false,
+    "ci": false,
+    "temp": false
+  },
+  "max-len": 100,
+  "debug": false
+}
